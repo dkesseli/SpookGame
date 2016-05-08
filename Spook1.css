@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 350;
+    background: black;
+    vertical-align: baseline;
+	overflow: hidden;
+	padding-bottom: 70px;
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 2.5em;
+}
+
+/*HEADER*/
+header {
+  padding: 20px 0;
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+header h1 {
+  font-weight: 700;
+  margin: 0;
+  color: #995c00;
+}
+
+header h3 {
+  padding: 0 20px;
+  margin: 0;
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+
+/*LINKS*/
+a:link{
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+/*BODY*/
